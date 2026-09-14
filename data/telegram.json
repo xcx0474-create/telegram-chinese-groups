@@ -1,8 +1,8 @@
 {
  "name": "中文 Telegram 群组与频道导航",
  "site": "https://navsou.com",
- "updated": "2026-09-13",
- "total": 353,
+ "updated": "2026-09-14",
+ "total": 363,
  "categories": [
   {
    "name": "技术编程",
@@ -11,6 +11,10 @@
   {
    "name": "TG周边",
    "count": 53
+  },
+  {
+   "name": "其他",
+   "count": 32
   },
   {
    "name": "读书学习",
@@ -23,10 +27,6 @@
   {
    "name": "软件工具",
    "count": 24
-  },
-  {
-   "name": "其他",
-   "count": 22
   },
   {
    "name": "博客播客",
@@ -3254,6 +3254,96 @@
    "cat": "其他",
    "page": "https://navsou.com/g/minecraft_chinese",
    "join": "https://t.me/Minecraft_Chinese"
+  },
+  {
+   "username": "woaizyg",
+   "name": "SSPanel之國 章魚集團🐙",
+   "desc": "声明： 群文件仅供学习研究 如需售后和长久更新 请购买正版获得服务 本群所有文件虽免费 安装咨询服务仍收费 有能力你大可自己装 没能力请你虚心请教  章鱼哥的网盘： (破解版源码后",
+   "members": 9105,
+   "cat": "其他",
+   "page": "https://navsou.com/g/woaizyg",
+   "join": "https://t.me/woaizyg"
+  },
+  {
+   "username": "nnpai",
+   "name": "新闻派",
+   "desc": "Apple, Android, Windows, Mac, Linux, 5G, VR, 科技, 手机, 电脑, 数码, 智能, 汽车, 网络, 前沿, 游戏, 电竞, 科普   ",
+   "members": 4699,
+   "cat": "其他",
+   "page": "https://navsou.com/c/nnpai",
+   "join": "https://t.me/nnpai"
+  },
+  {
+   "username": "weiboresou",
+   "name": "微博热搜",
+   "desc": "微博热搜 curated by its third-party RSS Feed",
+   "members": 6432,
+   "cat": "其他",
+   "page": "https://navsou.com/c/weiboresou",
+   "join": "https://t.me/weiboresou"
+  },
+  {
+   "username": "GooglePlayPublic",
+   "name": "Google Play Public",
+   "desc": "应用分享 群组：https://t.me/+RDKqoTmhCmd2Q8g-",
+   "members": 13286,
+   "cat": "其他",
+   "page": "https://navsou.com/c/googleplaypublic",
+   "join": "https://t.me/GooglePlayPublic"
+  },
+  {
+   "username": "justfNew",
+   "name": "Justf News",
+   "desc": "@InsulationJustf 的频道。主打原创消息，多数大佬转发的消息我不掺和，可以尽情关注～  友链 @LetITFlyW @TooruChanNews @lychee_wo",
+   "members": 29360,
+   "cat": "其他",
+   "page": "https://navsou.com/c/justfnew",
+   "join": "https://t.me/justfNew"
+  },
+  {
+   "username": "dailyrss",
+   "name": "悦读「优质少量RSS聚合」",
+   "desc": "文章、图片、视频、音乐、播客RSS订阅聚合频道 部分支持「🎉Tg即时预览/内嵌播放」  订阅内容主要类型为IT、科技类文章、减压向图片音频等  💬子频道： 物种日历 @Guokrc",
+   "members": 4000,
+   "cat": "其他",
+   "page": "https://navsou.com/c/dailyrss",
+   "join": "https://t.me/dailyrss"
+  },
+  {
+   "username": "pan_icu",
+   "name": "《内核恐慌》听众群",
+   "desc": "一档号称硬核却没什么干货的信息技术主题娱乐节目的听众群  节目网站：https://pan.icu",
+   "members": 32133,
+   "cat": "其他",
+   "page": "https://navsou.com/g/pan_icu",
+   "join": "https://t.me/pan_icu"
+  },
+  {
+   "username": "CoolComic404_Fans",
+   "name": "酷漫404粉丝群",
+   "desc": "酷漫404发布频道 @CoolComic404  酷漫404粉丝群 @CoolComic404_Fans",
+   "members": 9682,
+   "cat": "其他",
+   "page": "https://navsou.com/g/coolcomic404_fans",
+   "join": "https://t.me/CoolComic404_Fans"
+  },
+  {
+   "username": "TelegreatX",
+   "name": "Telegreat Desktop 中文討論區 (Mandarin Chat)",
+   "desc": "已停止開發，請改用 @tg_x64",
+   "members": 76529,
+   "cat": "其他",
+   "page": "https://navsou.com/g/telegreatx",
+   "join": "https://t.me/TelegreatX"
+  },
+  {
+   "username": "designtaalk",
+   "name": "Popular Design Articles流行设计文章资源",
+   "desc": "频道偶尔会分享一些国外优秀设计文章资源。  也欢迎大家到群组交流设计 https://t.me/+Qsf56E4IGogw80Co",
+   "members": 66436,
+   "cat": "其他",
+   "page": "https://navsou.com/c/designtaalk",
+   "join": "https://t.me/designtaalk"
   }
  ]
 }
