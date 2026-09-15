@@ -1,15 +1,15 @@
 # 中文 Telegram 群组与频道导航（Telegram Chinese Groups & Channels）
 
-> 收录 **386** 个精选中文 Telegram 群组 / 频道，覆盖 18 个分类，全部经人工审核与定期复核，数据持续更新。
+> 收录 **389** 个精选中文 Telegram 群组 / 频道，覆盖 18 个分类，全部经人工审核与定期复核，数据持续更新。
 
 每个条目附详情页链接（成员数、简介、核验状态），点「加入」直达 Telegram。
 
-🔍 **在线搜索版**：[群搜](https://navsou.com) —— 支持 386 个群组的全文搜索、随机探索与每日更新
+🔍 **在线搜索版**：[群搜](https://navsou.com) —— 支持 389 个群组的全文搜索、随机探索与每日更新
 📰 **TG 资讯/攻略**：[https://navsou.com/news](https://navsou.com/news) —— 找群技巧、防骗指南、使用教程
 
 ## 目录
 
-- [其他（55）](#其他)
+- [其他（58）](#其他)
 - [技术编程（54）](#技术编程)
 - [TG周边（53）](#TG周边)
 - [读书学习（29）](#读书学习)
@@ -40,6 +40,7 @@
 | **纪录片自留地** | 随意发发，随便看看，不定时更 | 73,134 | [详情](https://navsou.com/c/litterpanda) | [加入](https://t.me/litterpanda) |
 | **In The Flux** | 关于文化、艺术与技术的信息流 A place of radical sharing on art, culture and technology  投稿&联系 @flowfeedb | 72,761 | [详情](https://navsou.com/c/intheflux) | [加入](https://t.me/intheflux) |
 | **树莓派 Raspberry Pi** | Raspberry Pi讨论群 | 71,336 | [详情](https://navsou.com/g/raspicn) | [加入](https://t.me/raspicn) |
+| **MrKevin博客 \| 资讯 分享 测评** | 第三方独立测评网站（ mrkevin.net ），给你提供专业详细的服务器测评报告，推送主机圈最新优惠信息，分享互联网有趣内容  频道投稿： @mr_kevinh 网站投稿：htt | 67,632 | [详情](https://navsou.com/c/hilinuxcn) | [加入](https://t.me/hilinuxcn) |
 | **内涵段子之闲聊群** | 狼人杀群: @werewolfcn 猜大小,21点,赛马等游戏群: @DuanziGame 糗事百科: @qiushibaike 笑掉大牙 @xiaodiaodaya :纯文字段子 | 66,438 | [详情](https://navsou.com/g/overseaschinese) | [加入](https://t.me/OverseasChinese) |
 | **Popular Design Articles流行设计文章资源** | 频道偶尔会分享一些国外优秀设计文章资源。  也欢迎大家到群组交流设计 https://t.me/+Qsf56E4IGogw80Co | 66,436 | [详情](https://navsou.com/c/designtaalk) | [加入](https://t.me/designtaalk) |
 | **搞笑研究所️🔥** | 有笑点，且高级  💥每日笑点放送//趣味研究🔥  \|沙雕 \|神评 \|搞笑 \|吐槽 \|梗图\| 以及其他.. 欢迎投稿 | 65,703 | [详情](https://navsou.com/c/gaoxiaoshu) | [加入](https://t.me/gaoxiaoshu) |
@@ -54,6 +55,7 @@
 | **.** | — | 58,666 | [详情](https://navsou.com/c/tele_zh_tw) | [加入](https://t.me/Tele_zh_TW) |
 | **[CN]Flutter Dev** | Flutter 中文开发交流群[非官方]  官方群(EN):https://gitter.im/flutter/flutter | 57,202 | [详情](https://navsou.com/g/fluttercn) | [加入](https://t.me/FlutterCN) |
 | **mkplayerapp** | — | 55,786 | [详情](https://navsou.com/c/mkplayerapp) | [加入](https://t.me/mkplayerapp) |
+| **Spotify Addict Group** | Spotify Addict Group  本群邀请链接: https://t.me/spotifyaddict  Spotify 资讯频道： https://t.me/spoti | 48,193 | [详情](https://navsou.com/g/spotifyaddict) | [加入](https://t.me/spotifyaddict) |
 | **GFW R16** | Graphics For Work Radio No.16  For Work系列频道 梗频道： @JISFW 图频道： @GfWR16 妹频道： @GfW3DS 投稿反馈吹水群： | 47,698 | [详情](https://navsou.com/c/gfwr16) | [加入](https://t.me/GfWR16) |
 | **PanoanDrive-免费离线下载资源至Google Drive** | 频道：https://t.me/PanoanChannel /mirror 下载链接 /cancel 取消（回复下载的消息） /status 查看下载状态 | 47,365 | [详情](https://navsou.com/g/panoandrivebasic) | [加入](https://t.me/PanoanDriveBasic) |
 | **Minecraft 中文群組 (Chinese only)** | 歡迎來到中文 Minecraft 交流群組！ 有關 Minecraft 的話題都可以在這裡討論喔  請使用大家都能看懂的中文  地區方言等請盡量不要使用 推廣伺服器請節制，不要造成 | 47,362 | [详情](https://navsou.com/g/minecraft_chinese) | [加入](https://t.me/Minecraft_Chinese) |
@@ -62,6 +64,7 @@
 | **Digital Immigrants丨Want Want Lobby** | 迎宾处 | 40,600 | [详情](https://navsou.com/c/licensess) | [加入](https://t.me/Licensess) |
 | **PUSH科技快讯** | ✈️本频道不定期推送相关资讯 ✉️如你也有资讯想在本频道推送，可私信机器人 @Myxiaobot，消息经过审核后将在本频道发布。 ✖️请勿向机器人发送无意义信息。 ☝️优质资讯本频 | 39,820 | [详情](https://navsou.com/c/pushings) | [加入](https://t.me/Pushings) |
 | **Learn SwiftUI** | 每日分享 SwiftUI 相关的内容，网站 http://learnswiftui.cn | 38,315 | [详情](https://navsou.com/c/learnswiftui) | [加入](https://t.me/learnswiftui) |
+| **喵喵小喵喵** | 大喵喵和小喵喵的转发频道。 No endorsement implied  投喂请前往附属群 | 38,259 | [详情](https://navsou.com/c/meowminimeow) | [加入](https://t.me/MeowMiniMeow) |
 | **EMK Public Channel** | EMK's Channel Contact Me: @emk2000 / @EMK_Chat_Bot 本頻道鏈接：https://t.me/joinchat/igKL9kZcLII | 36,933 | [详情](https://navsou.com/c/jacobemk) | [加入](https://t.me/JacobEMK) |
 | **。** | 本群组从属于坐和放宽生态系统 从此处: https://t.me/sitandrelaxunion/4 开始可查看坐和放宽的所有频道/群组 | 35,193 | [详情](https://navsou.com/g/sitandrelaxgroup) | [加入](https://t.me/SitandRelaxGroup) |
 | **笑掉大牙** | 开心一刻，笑话大全，爆笑冷笑话精选，经典笑话尽在笑掉大牙！海量笑话内容每日定时更新，给您带来更多快乐 内涵段子 @duanzitg旗下子频道,专门分享文字段子,优秀段子欢迎转到内涵 | 32,354 | [详情](https://navsou.com/c/xiaodiaodaya) | [加入](https://t.me/xiaodiaodaya) |
