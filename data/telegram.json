@@ -1,9 +1,13 @@
 {
  "name": "中文 Telegram 群组与频道导航",
  "site": "https://navsou.com",
- "updated": "2026-09-14",
- "total": 363,
+ "updated": "2026-09-15",
+ "total": 386,
  "categories": [
+  {
+   "name": "其他",
+   "count": 55
+  },
   {
    "name": "技术编程",
    "count": 54
@@ -11,10 +15,6 @@
   {
    "name": "TG周边",
    "count": 53
-  },
-  {
-   "name": "其他",
-   "count": 32
   },
   {
    "name": "读书学习",
@@ -90,7 +90,7 @@
   {
    "username": "miaoaaaaa",
    "name": "APP喵 - 精选",
-   "desc": "AI / 软件 / 网站 / 开源 / 工具 / 极客 / 效率  主：苹果macOS，iOS，限免，科技资讯  每日精选资源，值得收藏  频道：https://t.me/miao",
+   "desc": "AI / 软件 / 网站 / 开源 / 工具 / 极客 / 效率  主：AI，苹果，macOS，iOS，限免，科技资讯  每日精选资源，值得收藏  频道：https://t.me/",
    "members": 76841,
    "cat": "技术编程",
    "page": "https://navsou.com/c/miaoaaaaa",
@@ -306,7 +306,7 @@
   {
    "username": "qunyouwen",
    "name": "树洞🌳群友问❓有点意思🗳",
-   "desc": "洞友频道投稿： @zaihuabot （选择群友问投稿） 禁止非法内容，一经发现拉黑投稿！  频道内容搜索 @qywsobot 侵权/解封/帮助 @zaihuaAskBot 备用频",
+   "desc": "发现各种喜闻乐见，只要是问题，洞友都可以在这里问。群友问期待洞友的加入！  洞友频道投稿： @zaihuabot （选择群友问投稿） 禁止非法内容，一经发现拉黑投稿！  频道内容搜",
    "members": 60487,
    "cat": "技术编程",
    "page": "https://navsou.com/c/qunyouwen",
@@ -3344,6 +3344,213 @@
    "cat": "其他",
    "page": "https://navsou.com/c/designtaalk",
    "join": "https://t.me/designtaalk"
+  },
+  {
+   "username": "raspicn",
+   "name": "树莓派 Raspberry Pi",
+   "desc": "Raspberry Pi讨论群",
+   "members": 71336,
+   "cat": "其他",
+   "page": "https://navsou.com/g/raspicn",
+   "join": "https://t.me/raspicn"
+  },
+  {
+   "username": "iOS1314",
+   "name": "苹果派群组",
+   "desc": "专注于苹果手机平板电脑、iOS、iPadOS、MacOS系统软件、升级降级、刷机解锁、越狱美化、应用推荐、使用教程、资源分享等。",
+   "members": 4933,
+   "cat": "其他",
+   "page": "https://navsou.com/g/ios1314",
+   "join": "https://t.me/iOS1314"
+  },
+  {
+   "username": "renjianzhinan_channel",
+   "name": "人间指南",
+   "desc": "",
+   "members": 15240,
+   "cat": "其他",
+   "page": "https://navsou.com/c/renjianzhinan_channel",
+   "join": "https://t.me/renjianzhinan_channel"
+  },
+  {
+   "username": "jidian",
+   "name": "奇点",
+   "desc": "欢迎来到奇点用户群！  这是一个面向奇点用户的群组，用于交流奇点日常使用、通知并确认相关问题或故障、收集需求和激发想法。  你可以自由地加入、退出或邀请他人，也可以交流其他围绕移动",
+   "members": 74963,
+   "cat": "其他",
+   "page": "https://navsou.com/g/jidian",
+   "join": "https://t.me/jidian"
+  },
+  {
+   "username": "dmysfx",
+   "name": "呆萌影视",
+   "desc": "更新热门资源，电视剧，电影，韩剧，动漫，广播剧，学习资料",
+   "members": 46568,
+   "cat": "其他",
+   "page": "https://navsou.com/g/dmysfx",
+   "join": "https://t.me/dmysfx"
+  },
+  {
+   "username": "host_news",
+   "name": "全球主机信息推送",
+   "desc": "全球主机补货通知：https://t.me/hostmonit 全球主机交易推送：https://t.me/host_trading",
+   "members": 77805,
+   "cat": "其他",
+   "page": "https://navsou.com/g/host_news",
+   "join": "https://t.me/host_news"
+  },
+  {
+   "username": "PanoanDriveBasic",
+   "name": "PanoanDrive-免费离线下载资源至Google Drive",
+   "desc": "频道：https://t.me/PanoanChannel /mirror 下载链接 /cancel 取消（回复下载的消息） /status 查看下载状态",
+   "members": 47365,
+   "cat": "其他",
+   "page": "https://navsou.com/g/panoandrivebasic",
+   "join": "https://t.me/PanoanDriveBasic"
+  },
+  {
+   "username": "tengzhou",
+   "name": "滕州 Telegram 办事处",
+   "desc": "谈天说地 肆意吹水",
+   "members": 64728,
+   "cat": "其他",
+   "page": "https://navsou.com/g/tengzhou",
+   "join": "https://t.me/tengzhou"
+  },
+  {
+   "username": "Pushings",
+   "name": "PUSH科技快讯",
+   "desc": "✈️本频道不定期推送相关资讯 ✉️如你也有资讯想在本频道推送，可私信机器人 @Myxiaobot，消息经过审核后将在本频道发布。 ✖️请勿向机器人发送无意义信息。 ☝️优质资讯本频",
+   "members": 39820,
+   "cat": "其他",
+   "page": "https://navsou.com/c/pushings",
+   "join": "https://t.me/Pushings"
+  },
+  {
+   "username": "AndroidDiscuss",
+   "name": "android Discuss | 辣鸡谷歌还我甜点 🌶🐓🌾🕊",
+   "desc": "日常闲聊水 和其他任意讨论瞎扯 少喷政治多发情 消歧义 少>别大量洗版刷屏地 喷>无脑骂负面内容 少喷>可以适量合理友善交谈认真讨论 **友善地**",
+   "members": 32168,
+   "cat": "其他",
+   "page": "https://navsou.com/g/androiddiscuss",
+   "join": "https://t.me/AndroidDiscuss"
+  },
+  {
+   "username": "AppleSpyder",
+   "name": " Apple Spyder 果蛛 🕷️",
+   "desc": "由 @Hackl0us 开发的 Apple 监控服务，可以监控以下服务：  * 正式版 / 测试版软件更新 * AirPods 固件更新与撤回 * 🇨🇳中国大陆 / 🇺🇸美区 / ",
+   "members": 13420,
+   "cat": "其他",
+   "page": "https://navsou.com/c/applespyder",
+   "join": "https://t.me/AppleSpyder"
+  },
+  {
+   "username": "twittercryptofans",
+   "name": "加密货币爱好者",
+   "desc": "加入条件：价值投资，长线，不加杠杆不做合约，所在地合规平台交易，只投输得起的钱。新入群请翻看群聊。基础问题去问谷歌。推荐项目请先说出依据。发广告立斩。不要相信群友私信。勿用语音。 ",
+   "members": 62808,
+   "cat": "其他",
+   "page": "https://navsou.com/g/twittercryptofans",
+   "join": "https://t.me/twittercryptofans"
+  },
+  {
+   "username": "JacobEMK",
+   "name": "EMK Public Channel",
+   "desc": "EMK's Channel Contact Me: @emk2000 / @EMK_Chat_Bot 本頻道鏈接：https://t.me/joinchat/igKL9kZcLII",
+   "members": 36933,
+   "cat": "其他",
+   "page": "https://navsou.com/c/jacobemk",
+   "join": "https://t.me/JacobEMK"
+  },
+  {
+   "username": "inbox_all",
+   "name": "浮光掠影",
+   "desc": "- 阅读 📖 思辨💡记录 ✍️ 分享 🍻 -  - 有趣 🎈 有用 🎁 启发思考的 💭 -  JUST LOOKING",
+   "members": 4892,
+   "cat": "其他",
+   "page": "https://navsou.com/c/inbox_all",
+   "join": "https://t.me/inbox_all"
+  },
+  {
+   "username": "tieliu",
+   "name": "资源笔记",
+   "desc": "",
+   "members": 65203,
+   "cat": "其他",
+   "page": "https://navsou.com/c/tieliu",
+   "join": "https://t.me/tieliu"
+  },
+  {
+   "username": "frontend_talk",
+   "name": "Frontend 前端中文技术交流",
+   "desc": "此Channel主要用作前端方向的开发同学在Telegram上的技术交流平台，不定期分享Vue.js/React/Node.js/Chrome/ECMA-TC39/W3C等相关的最",
+   "members": 30057,
+   "cat": "其他",
+   "page": "https://navsou.com/g/frontend_talk",
+   "join": "https://t.me/frontend_talk"
+  },
+  {
+   "username": "centoszh",
+   "name": "CentOS 中文",
+   "desc": "Linux 发行版之一： CentOS （Community Enterprise Operating System）",
+   "members": 61097,
+   "cat": "其他",
+   "page": "https://navsou.com/g/centoszh",
+   "join": "https://t.me/centoszh"
+  },
+  {
+   "username": "learnswiftui",
+   "name": "Learn SwiftUI",
+   "desc": "每日分享 SwiftUI 相关的内容，网站 http://learnswiftui.cn",
+   "members": 38315,
+   "cat": "其他",
+   "page": "https://navsou.com/c/learnswiftui",
+   "join": "https://t.me/learnswiftui"
+  },
+  {
+   "username": "litterpanda",
+   "name": "纪录片自留地",
+   "desc": "随意发发，随便看看，不定时更",
+   "members": 73134,
+   "cat": "其他",
+   "page": "https://navsou.com/c/litterpanda",
+   "join": "https://t.me/litterpanda"
+  },
+  {
+   "username": "xiaodiaodaya",
+   "name": "笑掉大牙",
+   "desc": "开心一刻，笑话大全，爆笑冷笑话精选，经典笑话尽在笑掉大牙！海量笑话内容每日定时更新，给您带来更多快乐 内涵段子 @duanzitg旗下子频道,专门分享文字段子,优秀段子欢迎转到内涵",
+   "members": 32354,
+   "cat": "其他",
+   "page": "https://navsou.com/c/xiaodiaodaya",
+   "join": "https://t.me/xiaodiaodaya"
+  },
+  {
+   "username": "mkplayerapp",
+   "name": "mkplayerapp",
+   "desc": "",
+   "members": 55786,
+   "cat": "其他",
+   "page": "https://navsou.com/c/mkplayerapp",
+   "join": "https://t.me/mkplayerapp"
+  },
+  {
+   "username": "DigitalSpecialDeals",
+   "name": "数字优惠",
+   "desc": "数字世界的各种优惠，包括软件和硬件。供稿可联系： @tualatrix",
+   "members": 11202,
+   "cat": "其他",
+   "page": "https://navsou.com/c/digitalspecialdeals",
+   "join": "https://t.me/DigitalSpecialDeals"
+  },
+  {
+   "username": "hengjiazhihui",
+   "name": "亨嘉之会 | 二次元美图仓库 🅥",
+   "desc": "二次元/动漫/插画作品互动讨论，闲聊吹水群 ⚠️进群需要进行人机验证，验证失败会被移出群组。 群规： t.me/hengjiazhihui/122 关联频道： t.me/gongz",
+   "members": 20779,
+   "cat": "其他",
+   "page": "https://navsou.com/g/hengjiazhihui",
+   "join": "https://t.me/hengjiazhihui"
   }
  ]
 }
