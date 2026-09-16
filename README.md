@@ -1,15 +1,15 @@
 # 中文 Telegram 群组与频道导航（Telegram Chinese Groups & Channels）
 
-> 收录 **389** 个精选中文 Telegram 群组 / 频道，覆盖 18 个分类，全部经人工审核与定期复核，数据持续更新。
+> 收录 **403** 个精选中文 Telegram 群组 / 频道，覆盖 18 个分类，全部经人工审核与定期复核，数据持续更新。
 
 每个条目附详情页链接（成员数、简介、核验状态），点「加入」直达 Telegram。
 
-🔍 **在线搜索版**：[群搜](https://navsou.com) —— 支持 389 个群组的全文搜索、随机探索与每日更新
+🔍 **在线搜索版**：[群搜](https://navsou.com) —— 支持 403 个群组的全文搜索、随机探索与每日更新
 📰 **TG 资讯/攻略**：[https://navsou.com/news](https://navsou.com/news) —— 找群技巧、防骗指南、使用教程
 
 ## 目录
 
-- [其他（58）](#其他)
+- [其他（72）](#其他)
 - [技术编程（54）](#技术编程)
 - [TG周边（53）](#TG周边)
 - [读书学习（29）](#读书学习)
@@ -34,12 +34,15 @@
 |---|---|---|---|---|
 | **全球主机信息推送** | 全球主机补货通知：https://t.me/hostmonit 全球主机交易推送：https://t.me/host_trading | 77,805 | [详情](https://navsou.com/g/host_news) | [加入](https://t.me/host_news) |
 | **報導者 The Reporter** | 台灣第一個由公益基金會成立的網路媒體，秉持深度、開放、非營利的精神，致力於公共領域調查報導，與社會共同打造多元進步的媒體環境。  ■真相難辨的時代，需要堅守新聞價值的媒體，邀您捐款 | 77,093 | [详情](https://navsou.com/c/tw_reporter_org) | [加入](https://t.me/tw_reporter_org) |
+| **精品免费翻墙app推荐** | 麒麟加速器 安卓科学上网利器 https://github.com/qilinjiasuqi/qilinjiasuqi\t\thttps://share.kylinaccelera | 76,737 | [详情](https://navsou.com/g/fuckyougfw) | [加入](https://t.me/fuckyougfw) |
 | **Telegreat Desktop 中文討論區 (Mandarin Chat)** | 已停止開發，請改用 @tg_x64 | 76,529 | [详情](https://navsou.com/g/telegreatx) | [加入](https://t.me/TelegreatX) |
 | **奇点** | 欢迎来到奇点用户群！  这是一个面向奇点用户的群组，用于交流奇点日常使用、通知并确认相关问题或故障、收集需求和激发想法。  你可以自由地加入、退出或邀请他人，也可以交流其他围绕移动 | 74,963 | [详情](https://navsou.com/g/jidian) | [加入](https://t.me/jidian) |
 | **flomo浮墨卡片笔记** | flomoapp.com 官方群 | 73,465 | [详情](https://navsou.com/g/flomoapp) | [加入](https://t.me/flomoapp) |
 | **纪录片自留地** | 随意发发，随便看看，不定时更 | 73,134 | [详情](https://navsou.com/c/litterpanda) | [加入](https://t.me/litterpanda) |
 | **In The Flux** | 关于文化、艺术与技术的信息流 A place of radical sharing on art, culture and technology  投稿&联系 @flowfeedb | 72,761 | [详情](https://navsou.com/c/intheflux) | [加入](https://t.me/intheflux) |
 | **树莓派 Raspberry Pi** | Raspberry Pi讨论群 | 71,336 | [详情](https://navsou.com/g/raspicn) | [加入](https://t.me/raspicn) |
+| **窈窕淑女** | 云想衣裳花想容，春风拂槛露华浓 | 69,391 | [详情](https://navsou.com/c/girlsfe) | [加入](https://t.me/girlsfe) |
+| **壁纸 \| Wallpaper** | 喜欢请多多分享，谢谢！ | 69,320 | [详情](https://navsou.com/c/bizhi123) | [加入](https://t.me/bizhi123) |
 | **MrKevin博客 \| 资讯 分享 测评** | 第三方独立测评网站（ mrkevin.net ），给你提供专业详细的服务器测评报告，推送主机圈最新优惠信息，分享互联网有趣内容  频道投稿： @mr_kevinh 网站投稿：htt | 67,632 | [详情](https://navsou.com/c/hilinuxcn) | [加入](https://t.me/hilinuxcn) |
 | **内涵段子之闲聊群** | 狼人杀群: @werewolfcn 猜大小,21点,赛马等游戏群: @DuanziGame 糗事百科: @qiushibaike 笑掉大牙 @xiaodiaodaya :纯文字段子 | 66,438 | [详情](https://navsou.com/g/overseaschinese) | [加入](https://t.me/OverseasChinese) |
 | **Popular Design Articles流行设计文章资源** | 频道偶尔会分享一些国外优秀设计文章资源。  也欢迎大家到群组交流设计 https://t.me/+Qsf56E4IGogw80Co | 66,436 | [详情](https://navsou.com/c/designtaalk) | [加入](https://t.me/designtaalk) |
@@ -48,6 +51,7 @@
 | **滕州 Telegram 办事处** | 谈天说地 肆意吹水 | 64,728 | [详情](https://navsou.com/g/tengzhou) | [加入](https://t.me/tengzhou) |
 | **Linux中国** | Linux 中国官方 Telegram 频道 | 64,088 | [详情](https://navsou.com/c/linuxdotcn) | [加入](https://t.me/linuxdotcn) |
 | **地主精品用户名10** | — | 63,679 | [详情](https://navsou.com/c/dianwan) | [加入](https://t.me/dianwan) |
+| **免费VPN加速器交流🔥🔥🔥** | You can view and join @gouwu right away. | 63,443 | [详情](https://navsou.com/g/gouwu) | [加入](https://t.me/gouwu) |
 | **加密货币爱好者** | 加入条件：价值投资，长线，不加杠杆不做合约，所在地合规平台交易，只投输得起的钱。新入群请翻看群聊。基础问题去问谷歌。推荐项目请先说出依据。发广告立斩。不要相信群友私信。勿用语音。  | 62,808 | [详情](https://navsou.com/g/twittercryptofans) | [加入](https://t.me/twittercryptofans) |
 | **M-Team Unofficial chat - Chinese** | 公吿區 https://t.me/M_Team 疑難雜症請看 https://wiki.m-team.cc/ 帳號問題請至 https://ticket.m-team.io 廣告行 | 62,043 | [详情](https://navsou.com/g/m_team_chat) | [加入](https://t.me/M_Team_Chat) |
 | **CentOS 中文** | Linux 发行版之一： CentOS （Community Enterprise Operating System） | 61,097 | [详情](https://navsou.com/g/centoszh) | [加入](https://t.me/centoszh) |
@@ -55,6 +59,7 @@
 | **.** | — | 58,666 | [详情](https://navsou.com/c/tele_zh_tw) | [加入](https://t.me/Tele_zh_TW) |
 | **[CN]Flutter Dev** | Flutter 中文开发交流群[非官方]  官方群(EN):https://gitter.im/flutter/flutter | 57,202 | [详情](https://navsou.com/g/fluttercn) | [加入](https://t.me/FlutterCN) |
 | **mkplayerapp** | — | 55,786 | [详情](https://navsou.com/c/mkplayerapp) | [加入](https://t.me/mkplayerapp) |
+| **Project X Channel** | Donation: https://github.com/XTLS/Xray-core/issues/3668  中文群组：https://t.me/projectXray  Ру | 53,804 | [详情](https://navsou.com/c/projectxtls) | [加入](https://t.me/projectXtls) |
 | **Spotify Addict Group** | Spotify Addict Group  本群邀请链接: https://t.me/spotifyaddict  Spotify 资讯频道： https://t.me/spoti | 48,193 | [详情](https://navsou.com/g/spotifyaddict) | [加入](https://t.me/spotifyaddict) |
 | **GFW R16** | Graphics For Work Radio No.16  For Work系列频道 梗频道： @JISFW 图频道： @GfWR16 妹频道： @GfW3DS 投稿反馈吹水群： | 47,698 | [详情](https://navsou.com/c/gfwr16) | [加入](https://t.me/GfWR16) |
 | **PanoanDrive-免费离线下载资源至Google Drive** | 频道：https://t.me/PanoanChannel /mirror 下载链接 /cancel 取消（回复下载的消息） /status 查看下载状态 | 47,365 | [详情](https://navsou.com/g/panoandrivebasic) | [加入](https://t.me/PanoanDriveBasic) |
@@ -73,9 +78,18 @@
 | **Frontend 前端中文技术交流** | 此Channel主要用作前端方向的开发同学在Telegram上的技术交流平台，不定期分享Vue.js/React/Node.js/Chrome/ECMA-TC39/W3C等相关的最 | 30,057 | [详情](https://navsou.com/g/frontend_talk) | [加入](https://t.me/frontend_talk) |
 | **Justf News** | @InsulationJustf 的频道。主打原创消息，多数大佬转发的消息我不掺和，可以尽情关注～  友链 @LetITFlyW @TooruChanNews @lychee_wo | 29,360 | [详情](https://navsou.com/c/justfnew) | [加入](https://t.me/justfNew) |
 | **на Youtube уже больше 17ти лет!** | Предложка — личка канала. По вопросам рекламы туда же. https://t.me/meme17k?direct  Тот са | 26,985 | [详情](https://navsou.com/c/meme17k) | [加入](https://t.me/meme17k) |
+| **台灣區塊鏈遊戲社群** | 台灣區塊鏈遊戲聯盟(GBGA Taiwan)以發展台灣區塊鏈遊戲生態圈、連結國際市場、促進商務與產品合作為宗旨，期望帶來遊戲產業下一波轉型\t透過社群小聚、開發者Workshop與 | 23,411 | [详情](https://navsou.com/g/gbgatw) | [加入](https://t.me/gbgatw) |
+| **PDF图书联盟\|链接收藏\|电子书🏷** | 无规律无方向的持续分享一些书目，以及资源和有趣的内容，请各位秉承友好、善意的心态进行交流。 —— | 21,138 | [详情](https://navsou.com/c/pdftushuguan) | [加入](https://t.me/PDFtushuguan) |
+| **FT中文网 全文 实时推送** | [RSS全文订阅 实时更新]\t\t知乎日报\t@zhihuribao_rss\t\t纽约时报\t@niuyueshibao_rss\t\tBBC中文\t@bbczhongwen_ | 20,833 | [详情](https://navsou.com/c/ftzhongwen_rss) | [加入](https://t.me/ftzhongwen_rss) |
 | **亨嘉之会 \| 二次元美图仓库 🅥** | 二次元/动漫/插画作品互动讨论，闲聊吹水群 ⚠️进群需要进行人机验证，验证失败会被移出群组。 群规： t.me/hengjiazhihui/122 关联频道： t.me/gongz | 20,779 | [详情](https://navsou.com/g/hengjiazhihui) | [加入](https://t.me/hengjiazhihui) |
+| **👸大漂亮的小夥伴們（唯一群！嚴打廣告，大漂亮不會主動DM各位小夥伴）** | 歡迎加入大漂亮的小夥伴們！  我是你在元宇宙世界裏的第一個好朋友-加密大漂亮，我會告訴你這個世界裏所有問題的答案。   需進入會員策略群，請私信聯系管理員：https://t.me | 19,122 | [详情](https://navsou.com/g/giantcutie6688) | [加入](https://t.me/giantcutie6688) |
 | **心惊报根据地** | — | 18,578 | [详情](https://navsou.com/g/xinjingdailychatroom) | [加入](https://t.me/xinjingdailychatroom) |
+| **枫之谷** | 枫之谷加速网站：fzgjs.com\t\t公告板：https://t.me/fzgjs1\t\tIPLC节点1倍\t\t游戏节点独立带宽限速，不会被视频影响\t\t我 (聪聪) 制 | 17,392 | [详情](https://navsou.com/g/fzgjs) | [加入](https://t.me/fzgjs) |
+| **擅长搜索的高木同学** | You can view and join @gaomutongxue right away. | 15,481 | [详情](https://navsou.com/c/gaomutongxue) | [加入](https://t.me/gaomutongxue) |
+| **主机资讯&特价VPS补货通知** | 谢谢关注本频道，本频道主要是主机资讯分享和特价VPS补货通知\t\tVPS交流群：https://t.me/GCPUS | 15,270 | [详情](https://navsou.com/c/gcpcn) | [加入](https://t.me/gcpcn) |
 | **人间指南** | — | 15,240 | [详情](https://navsou.com/c/renjianzhinan_channel) | [加入](https://t.me/renjianzhinan_channel) |
+| **Genshin 🍁 原神｜收集器** | Genshin 原神，角色立绘，美图，壁纸，Cosplay | 15,044 | [详情](https://navsou.com/c/genshinfinecollect) | [加入](https://t.me/genshinfinecollect) |
+| **GigsGigsCloud.com 意见交流** | 双向交流，我们想听你的声音。\t此群只允许意见交流，你有什么建议，有什么需求， 可以在群中 提出了， 你的意见未必会被录取， 不过我们可以通过双方面商讨，看看可否进行。\t\t群中 | 14,029 | [详情](https://navsou.com/g/gigsgigscloudgroup) | [加入](https://t.me/gigsgigscloudgroup) |
 | ** Apple Spyder 果蛛 🕷️** | 由 @Hackl0us 开发的 Apple 监控服务，可以监控以下服务：  * 正式版 / 测试版软件更新 * AirPods 固件更新与撤回 * 🇨🇳中国大陆 / 🇺🇸美区 /  | 13,420 | [详情](https://navsou.com/c/applespyder) | [加入](https://t.me/AppleSpyder) |
 | **Google Play Public** | 应用分享 群组：https://t.me/+RDKqoTmhCmd2Q8g- | 13,286 | [详情](https://navsou.com/c/googleplaypublic) | [加入](https://t.me/GooglePlayPublic) |
 | **数字优惠** | 数字世界的各种优惠，包括软件和硬件。供稿可联系： @tualatrix | 11,202 | [详情](https://navsou.com/c/digitalspecialdeals) | [加入](https://t.me/DigitalSpecialDeals) |
@@ -517,4 +531,4 @@
 
 ---
 
-数据更新：2026-09-15 · 由 [群搜](https://navsou.com) 维护 · Star ⭐ 支持持续更新
+数据更新：2026-09-16 · 由 [群搜](https://navsou.com) 维护 · Star ⭐ 支持持续更新
