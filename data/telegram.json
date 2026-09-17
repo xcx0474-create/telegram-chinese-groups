@@ -1,12 +1,12 @@
 {
  "name": "中文 Telegram 群组与频道导航",
  "site": "https://navsou.com",
- "updated": "2026-09-16",
- "total": 403,
+ "updated": "2026-09-17",
+ "total": 454,
  "categories": [
   {
    "name": "其他",
-   "count": 72
+   "count": 123
   },
   {
    "name": "技术编程",
@@ -2759,16 +2759,6 @@
    "join": "https://t.me/MATLAB_tips"
   },
   {
-   "username": "zxc1017yyfx",
-   "name": "zxc1017yyfx",
-   "desc": "",
-   "members": 5065,
-   "cat": "其他",
-   "cid": 14,
-   "page": "https://navsou.com/c/zxc1017yyfx",
-   "join": "https://t.me/zxc1017yyfx"
-  },
-  {
    "username": "crossgreatfirewall",
    "name": "vAgent网络部",
    "desc": "专业安全稳定的加速技术服务 支持Anyconnect、wireguard等协议 独立开发vAgent协议",
@@ -4107,6 +4097,526 @@
    "cid": 14,
    "page": "https://navsou.com/g/gouwu",
    "join": "https://t.me/gouwu"
+  },
+  {
+   "username": "gramip",
+   "name": "Gramip Channel",
+   "desc": "（1）發布MTP/SOCKS5電報內置代理.\\t（2）不定時更新SSR/V2R（vmess）/Trojan節點.\\t（3）分享TG和安全上網相關訊息.\\t（4）影音、資訊廣播.\\t",
+   "members": 11579,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/gramip",
+   "join": "https://t.me/gramip"
+  },
+  {
+   "username": "hamibotchat",
+   "name": "Hamibot",
+   "desc": "网站首页：https://hamibot.com\\t国内站点：https://hamibot.cn\\t机场推荐：https://dlercloud.com\\t开发文档：https:",
+   "members": 32948,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/hamibotchat",
+   "join": "https://t.me/hamibotchat"
+  },
+  {
+   "username": "hanfufenxiang",
+   "name": "汉服分享",
+   "desc": "汉服 古风 古装\\t频道 @hanfufenxiang\\t群组 @hanfufenxiangqun\\t群组 @hanfufenxiangche\\t @hangfukong",
+   "members": 30163,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/hanfufenxiang",
+   "join": "https://t.me/hanfufenxiang"
+  },
+  {
+   "username": "hao123f",
+   "name": "TG中文频道大全",
+   "desc": "收录100,000+中文群组和频道，网罗万千资讯，有求必应！\\t\\t==只有想不到，没有搜不到==\\t\\t关键词竞价广告和置顶广告火爆销售中，本群成员购买有特别优惠！\\t\\t招商客",
+   "members": 12165,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/hao123f",
+   "join": "https://t.me/hao123f"
+  },
+  {
+   "username": "hellcell321",
+   "name": "嘿嘿嘿",
+   "desc": "☑️ Hell Cell功能教学：https://t.me/HellCellZC123\\t\\t☑️商务联系 @Tartarus2014\\t\\t☑️ 本群提供Quantumult X",
+   "members": 53665,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/hellcell321",
+   "join": "https://t.me/hellcell321"
+  },
+  {
+   "username": "hihackers",
+   "name": "骇客邦",
+   "desc": "以名誉为重，却并非来自强权、亦或外貌、或者能力，而是源自施与，将时间，态度，创意及创意结果贡献他人。\\t\\t始于态度，这里没有领导者，却有为人尊重的英雄，我们对傲慢的自我中心者永不",
+   "members": 41200,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/hihackers",
+   "join": "https://t.me/hihackers"
+  },
+  {
+   "username": "hk_ziyou",
+   "name": "自由世界之窗",
+   "desc": "You can view and join @hk_ziyou right away.",
+   "members": 24963,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/hk_ziyou",
+   "join": "https://t.me/hk_ziyou"
+  },
+  {
+   "username": "hostloc2tg",
+   "name": "NodeSeek新帖推送",
+   "desc": "一个推送NodeSeek最新帖子的频道，有问题请联系@cherbim",
+   "members": 49821,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/hostloc2tg",
+   "join": "https://t.me/hostloc2tg"
+  },
+  {
+   "username": "houxuapp",
+   "name": "后续APP —— 关注、追踪热点新闻",
+   "desc": "「后续」是一个持续关注、追踪热点事件的新闻工具，我们关注那些引起人们讨论、思考的热点新闻，改变了或者应该改变社会的事件。并将一直跟踪下去，观察并记录其中人物的命运，人们的思考，社会",
+   "members": 31832,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/houxuapp",
+   "join": "https://t.me/houxuapp"
+  },
+  {
+   "username": "https1024",
+   "name": "互联网从业者充电站",
+   "desc": "互联网从业者专属\\t内容多为技术、产品、设计、运营等不同话题内容；\\t目标人群为程序员、设计师、产品经理、运营管理等不同职能。\\t投稿/合作： @inside1024_bot\\t\\",
+   "members": 35952,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/https1024",
+   "join": "https://t.me/https1024"
+  },
+  {
+   "username": "hxisj8whsv",
+   "name": "Swarm免费梯子🆓翻墙",
+   "desc": "最新免费安卓梯子下载链接:https://uaoyxzpc.xyz/signup/?c=845634\\t\\t最新免费iOS+Windows梯子下载链接:https://xb0004",
+   "members": 52188,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/hxisj8whsv",
+   "join": "https://t.me/hxisj8whsv"
+  },
+  {
+   "username": "ibeta_channel",
+   "name": "iBeta 尝鲜派｜公告栏",
+   "desc": "iBeta 尝鲜派官方频道\\t官网： iBeta.me\\t群组： t.me/ibetame",
+   "members": 12304,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/ibeta_channel",
+   "join": "https://t.me/ibeta_channel"
+  },
+  {
+   "username": "iingtw",
+   "name": "台灣隊長蔡英文",
+   "desc": "蔡英文總統唯一官方Telegram頻道！\\t\\t「台灣的好，不應該輕易被擊倒。當新時代已經敲門，我們必須把門打開，讓世界看見台灣的好。」\\t\\t都加入我的TG了，也幫我加一下吧！\\",
+   "members": 53003,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/iingtw",
+   "join": "https://t.me/iingtw"
+  },
+  {
+   "username": "illuvium_cn",
+   "name": "Illuivum中文社区",
+   "desc": "You can view and join @illuvium_cn right away.",
+   "members": 65530,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/illuvium_cn",
+   "join": "https://t.me/illuvium_cn"
+  },
+  {
+   "username": "infzm",
+   "name": "南方周末 / Southern Weekly",
+   "desc": "在这里，读懂中国\\t\\t一个简单的南方周末推送频道，由 weVoice 建立。\\t欢迎关注我们的主频道 @wVNews ，一个独立自由的青少年民主派新闻媒体。\\t\\t互吹: @cn",
+   "members": 75500,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/infzm",
+   "join": "https://t.me/infzm"
+  },
+  {
+   "username": "ioshkj007",
+   "name": "ios黑科技交流群",
+   "desc": "各种实用软件与技巧。\\t京东羊毛：\\thttps://t.me/jdjd007\\t黑科技资源站：\\thttp://ioshkj.cn\\t苹果证书定制\\thttps://s0h.cn",
+   "members": 8672,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/ioshkj007",
+   "join": "https://t.me/ioshkj007"
+  },
+  {
+   "username": "ioshkj7",
+   "name": "苹果ios黑科技QX丨Loon丨Stash丨小火箭丨捷径规则",
+   "desc": "各种实用软件与技巧，QX丨Loon丨Stash丨小火箭丨捷径丨分享基地。苹果，安卓，PC各种资源。\\t黑科技资源站：\\thttp://ioshkj.cn\\t电报群组：\\tt.me/",
+   "members": 79230,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/ioshkj7",
+   "join": "https://t.me/ioshkj7"
+  },
+  {
+   "username": "jctest6666",
+   "name": "不著名测评",
+   "desc": "欢迎来到我们的测评频道！\\t\\t在这里，我们深入探索和评测机场，提供给你全面、客观的评测报告。\\t\\t无论你是集邮爱好者，还是日常生活中寻找更好机场的消费者，这里都有你需要的信息。",
+   "members": 63578,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jctest6666",
+   "join": "https://t.me/jctest6666"
+  },
+  {
+   "username": "jichang_list",
+   "name": "机场列表 机场频道 🆅",
+   "desc": "欢迎关注机场列表频道: @jichang_list\\t\\t本频道不断的收录机场的信息（名称、地址、频道、群组等等），均无AFF，放心食用。\\t本频道信息来源：①机器人自动抓取 ②投",
+   "members": 69370,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jichang_list",
+   "join": "https://t.me/jichang_list"
+  },
+  {
+   "username": "jichangtj",
+   "name": "科学上网观察与机场测速",
+   "desc": "#机场推荐 #机场测速 #机场评测 /观察/点评，科学上网和科技相关新闻资讯；\\t\\t#机场推荐 : http://bit.ly/3fdHzbp\\t\\tTwitter: twitt",
+   "members": 18728,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jichangtj",
+   "join": "https://t.me/jichangtj"
+  },
+  {
+   "username": "jiema_usa",
+   "name": "手机卡 流量卡",
+   "desc": "全球 手机卡 注册卡 流量卡 批发",
+   "members": 36238,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/jiema_usa",
+   "join": "https://t.me/jiema_usa"
+  },
+  {
+   "username": "jp_travel",
+   "name": "日本旅遊同好交流群",
+   "desc": "主要以台灣人前往「日本旅遊」為主，不管是親子、自助、自駕或者是跟團都可以，歡迎發表日本旅遊相關資訊～\\t\\t群組主要目的：\\t1. 討論詢問日本旅遊相關問題、行程方面討論以及日本旅",
+   "members": 28646,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/jp_travel",
+   "join": "https://t.me/jp_travel"
+  },
+  {
+   "username": "justanode_official",
+   "name": "Geeks TG24小时自动群发",
+   "desc": "流量大师✈️协议营销程序 @zawox \\t飞机会员代开 @tgvipsession 全网最强飞机协议 \\t官方客服 @svip333 双向 @svip333bot",
+   "members": 30095,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/justanode_official",
+   "join": "https://t.me/justanode_official"
+  },
+  {
+   "username": "juzhossn",
+   "name": "剧终的碎碎念",
+   "desc": "要简洁不要繁杂，要具体不要抽象，要人话不要谜语。\\t\\t频道定期清理已注销账号，请勿故意设置昵称。",
+   "members": 27877,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/juzhossn",
+   "join": "https://t.me/juzhossn"
+  },
+  {
+   "username": "isaiahsystem",
+   "name": "404 KIDS SEE GHOSTS (生产力之王版",
+   "desc": "科技丨社科哲丨泛文化与艺术   Group: @ghosttown666 Contact: @madebyblackstack",
+   "members": 66128,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/isaiahsystem",
+   "join": "https://t.me/isaiahsystem"
+  },
+  {
+   "username": "Jailbreak_Tweaks",
+   "name": "iOS 越狱插件更新信息",
+   "desc": "iOS 越狱插件更新与发布信息频道  越狱交流群 @iOS_Jailbreaking  插件搜索机器人 @iOSJailbreakBot (支持内联搜索插件)  如果有没收录到的源",
+   "members": 23143,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jailbreak_tweaks",
+   "join": "https://t.me/Jailbreak_Tweaks"
+  },
+  {
+   "username": "jandan_pic",
+   "name": "煎蛋无聊图",
+   "desc": "自动抓取煎蛋首页推荐无聊图及其评论 数据来源: https://jandan.net 更新间隔: 一小时 任何疑问请联系: @iovxw 不接广告！",
+   "members": 14777,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jandan_pic",
+   "join": "https://t.me/jandan_pic"
+  },
+  {
+   "username": "jcplnanmin",
+   "name": "跑路机场难民收容所",
+   "desc": "跑路机场难民交流群：https://t.me/jichangnmjl 仅供参考，便宜好用，稳定性我也不知道，跑了别找我，经济充裕的请找大机场 有任何问题请私聊： @Baobaoap",
+   "members": 50560,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jcplnanmin",
+   "join": "https://t.me/jcplnanmin"
+  },
+  {
+   "username": "JGBOOK",
+   "name": "桔梗书屋",
+   "desc": "花径不曾缘客扫，蓬门今始为君开，欢迎光临桔梗书屋。 小屋不定期上新，专注分享pdf电子书。",
+   "members": 78077,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jgbook",
+   "join": "https://t.me/JGBOOK"
+  },
+  {
+   "username": "jiaohusheji",
+   "name": "优秀設計分享",
+   "desc": "UI网页设计、交互设计、优质精简内容分享，生活、产品、无障碍设计、工具等。 @https1024 互联网从业者充电站",
+   "members": 69404,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jiaohusheji",
+   "join": "https://t.me/jiaohusheji"
+  },
+  {
+   "username": "jin10light",
+   "name": "金十数据 闪电资讯",
+   "desc": "金十数据, 一手时政&财经&币圈 数据24H极速推送！中文时政财经圈顶级付费文章！关注频道，洞悉世界！",
+   "members": 52648,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/jin10light",
+   "join": "https://t.me/jin10light"
+  },
+  {
+   "username": "KoiBooks",
+   "name": "🅱 基督教神学图书馆",
+   "desc": "按照美国国会图书馆分类整理基督教图书做分享！",
+   "members": 50399,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/koibooks",
+   "join": "https://t.me/KoiBooks"
+  },
+  {
+   "username": "Laoliang666",
+   "name": "老梁的音频[搬运]",
+   "desc": "搬运一些老梁的节目，希望大家听的开心。 Telegram中文设置: tg://setlanguage?lang=zhcncc 搜群机器人: @hao1234bot 公益TG代理: ",
+   "members": 58639,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/laoliang666",
+   "join": "https://t.me/Laoliang666"
+  },
+  {
+   "username": "liangxingxueyuan",
+   "name": "恋爱把妹有声馆",
+   "desc": "专注分享 恋爱教学 两性知识 的音频文件  聊天： t.me/+c6zqAIXZ_vBhZjIx  pua 恋爱 视频版本 ：t.me/liangaijiaocheng",
+   "members": 63061,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/liangxingxueyuan",
+   "join": "https://t.me/liangxingxueyuan"
+  },
+  {
+   "username": "lisuanlaoji",
+   "name": "几鸡 - 中转站（请移步新群：t.me/ngcss） 官网： j.mr",
+   "desc": "此频道已经停用请加入新群：t.me/ngcss 官网： j.mr",
+   "members": 13637,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/lisuanlaoji",
+   "join": "https://t.me/lisuanlaoji"
+  },
+  {
+   "username": "litangyo",
+   "name": "李唐Yo",
+   "desc": "将军会惩罚每一个脱北者(退订者)",
+   "members": 51164,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/litangyo",
+   "join": "https://t.me/litangyo"
+  },
+  {
+   "username": "lookingforqoli",
+   "name": "😛圍觀「窮的」設計師",
+   "desc": "",
+   "members": 34230,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/lookingforqoli",
+   "join": "https://t.me/lookingforqoli"
+  },
+  {
+   "username": "loricloud",
+   "name": "斯侉伯科技|v2ray稳定机场服务商",
+   "desc": "全天4K加速支持，流媒体服务解锁，包年包月/按量付费套餐灵活，还可以定制专线哟，特别适合亚马逊、易趣等外贸用户，需要定制请联系群主。 售后服务优先级：工单>群聊>私聊（可能看不到）",
+   "members": 10176,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/loricloud",
+   "join": "https://t.me/loricloud"
+  },
+  {
+   "username": "magazineforfree",
+   "name": "一页桂花糕",
+   "desc": "杂志期刊| 图书 | 新闻 | 话题随想 商务联系：https://t.me/liamsmith_bot",
+   "members": 5331,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/magazineforfree",
+   "join": "https://t.me/magazineforfree"
+  },
+  {
+   "username": "mfjdpd",
+   "name": "免费节点频道",
+   "desc": "商务合作， @badukeji01 免费节点，破解vpn，破解机场。  网站: https://jichangvpn.cloud",
+   "members": 31585,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/mfjdpd",
+   "join": "https://t.me/mfjdpd"
+  },
+  {
+   "username": "MothLib",
+   "name": "飛蛾書庫",
+   "desc": "想象、思考、怀疑、批判 *工作日4更，周末杂志* 热爱书籍，请购买正版",
+   "members": 8329,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/mothlib",
+   "join": "https://t.me/MothLib"
+  },
+  {
+   "username": "Moviesontg",
+   "name": "📽️看电影·午夜场 新频道👉@TGMOVS",
+   "desc": "🎬经典电影分享 | 导航站/防失联: @TGMOVS  🚨资源搜索群: @Vip96s  💬资源交流群: @Ziyuanhelp",
+   "members": 73969,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/moviesontg",
+   "join": "https://t.me/Moviesontg"
+  },
+  {
+   "username": "mp3_cn",
+   "name": "🎵音乐点播",
+   "desc": "🔍 搜索更多资源 👉 @souso_tg  ➡️ 发送 歌手/歌名 无需带指令 直接点播 ➡️ 点歌单底下数字按钮 直接播放 ➡️ 进群申请自动批准 请开启小程序验证 !  👮‍♂",
+   "members": 65341,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/mp3_cn",
+   "join": "https://t.me/mp3_cn"
+  },
+  {
+   "username": "Mp4Post",
+   "name": "影视讯息发布 | 在线电影 电视剧 剧集 动漫 漫威宇宙 DC宇宙",
+   "desc": "◾️本频道用于影视更新信息发布，热心的网友会在评论区回复更多相关电影资讯！ ◾️目录中可搜索影片  【强力导航站】 @MapFather 【影视在线】 @Mp4Post",
+   "members": 71079,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/mp4post",
+   "join": "https://t.me/Mp4Post"
+  },
+  {
+   "username": "naifei_pro",
+   "name": "合租Pro-频道",
+   "desc": "Netflix/Spotify/YouTube/Disney+/HBO/TV+ 简单靠谱合租  - 自助下单: http://naifeipro.me - 合租指南: https:",
+   "members": 5788,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/naifei_pro",
+   "join": "https://t.me/naifei_pro"
+  },
+  {
+   "username": "NASteam",
+   "name": "NAS私有云技术交流",
+   "desc": "",
+   "members": 55525,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/nasteam",
+   "join": "https://t.me/NASteam"
+  },
+  {
+   "username": "NebulaMediaUser",
+   "name": "Nebula-Media（星云）",
+   "desc": "🌟星云官方Channel： @Nebula_Media  🤖星云通行证管理中心： @Nebula_Account_bot  🙎‍♀️‍星云客服服务： @Nebula_Media_S",
+   "members": 36608,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/nebulamediauser",
+   "join": "https://t.me/NebulaMediaUser"
+  },
+  {
+   "username": "network50_chat",
+   "name": "原微基主机讨论组 - 原50KVM/50VZ",
+   "desc": "",
+   "members": 17240,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/network50_chat",
+   "join": "https://t.me/network50_chat"
+  },
+  {
+   "username": "nexitallyusers",
+   "name": "🍉奶昔的233号永动机🍉",
+   "desc": "新官方群组： 1. 私聊官方机器人 @nexitallyUserBot 2. 聊天框输入 /start  3. 然后点击“进群链接”  4. 认证后进私有群  谨防诈骗 请认准官方",
+   "members": 11679,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/nexitallyusers",
+   "join": "https://t.me/nexitallyusers"
+  },
+  {
+   "username": "ngcss",
+   "name": "ChinaG（几鸡） v3.0（咨詢问题仅限官网右下角） - ♨️小圈自用公益机场 🅽🅶🅲🆂🆂",
+   "desc": "『請看清群名稱』 公告频道.获取最新动态公告： @ngcssnews  反馈问题：請移步官網右下角點擊聯繫。 24小時人工客服組： @SCP_724_BOT 吹水群（只閒聊）： @",
+   "members": 24426,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/ngcss",
+   "join": "https://t.me/ngcss"
+  },
+  {
+   "username": "openclaw_chat",
+   "name": "🦞龙虾OpenClaw",
+   "desc": "全网最大的小龙虾养殖基地 机场导航：vpnnav.github.io",
+   "members": 43170,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/openclaw_chat",
+   "join": "https://t.me/openclaw_chat"
+  },
+  {
+   "username": "pdcn2",
+   "name": "老毛子Padavan固件自助交流群",
+   "desc": "",
+   "members": 29094,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/pdcn2",
+   "join": "https://t.me/pdcn2"
   }
  ]
 }
