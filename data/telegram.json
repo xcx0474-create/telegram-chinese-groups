@@ -1,19 +1,19 @@
 {
  "name": "中文 Telegram 群组与频道导航",
  "site": "https://navsou.com",
- "updated": "2026-09-18",
- "total": 485,
+ "updated": "2026-09-19",
+ "total": 503,
  "categories": [
   {
    "name": "其他",
-   "count": 154
-  },
-  {
-   "name": "技术编程",
-   "count": 54
+   "count": 174
   },
   {
    "name": "TG周边",
+   "count": 53
+  },
+  {
+   "name": "技术编程",
    "count": 53
   },
   {
@@ -37,10 +37,6 @@
    "count": 21
   },
   {
-   "name": "科技数码",
-   "count": 15
-  },
-  {
    "name": "游戏电竞",
    "count": 14
   },
@@ -50,6 +46,10 @@
   },
   {
    "name": "壁纸萌宠",
+   "count": 14
+  },
+  {
+   "name": "科技数码",
    "count": 14
   },
   {
@@ -797,16 +797,6 @@
    "cid": 2,
    "page": "https://navsou.com/c/fragment_monitor",
    "join": "https://t.me/Fragment_Monitor"
-  },
-  {
-   "username": "programthinkbooks",
-   "name": "编程随想推荐书籍（非官方）#声援编程随想",
-   "desc": "惊闻随想君被捕，作为深爱他的文章的众读者之一，感到无比震惊和惋惜。本频道会加紧整理他的Resillio Sync内容，并做好备份。 编程随想的灯不会灭，每个人都是自由火炬的传递者！",
-   "members": 34236,
-   "cat": "技术编程",
-   "cid": 2,
-   "page": "https://navsou.com/c/programthinkbooks",
-   "join": "https://t.me/programthinkbooks"
   },
   {
    "username": "Musiccnchannel",
@@ -2729,16 +2719,6 @@
    "join": "https://t.me/netflixchina"
   },
   {
-   "username": "mokeyjay_channel",
-   "name": "moke 的 日常分享、吐槽和动态",
-   "desc": "超能小紫（ mok.moe ） @mokeyjay  的日常分享、吐槽和动态。以IT科技和日常见闻为主，欢迎关注😝  插画收藏夹 @mokeyjay_illustration R1",
-   "members": 39559,
-   "cat": "科技数码",
-   "cid": 19,
-   "page": "https://navsou.com/c/mokeyjay_channel",
-   "join": "https://t.me/mokeyjay_channel"
-  },
-  {
    "username": "ijustseesee",
    "name": "蛋挞观察室",
    "desc": "频道主 @dtpoi 投食 http://i.hv.ci  ＿＿＿＿＿＿＿＿＿＿＿  TGCN推荐频道 荔枝木 @lychee_wood 灵车漂移 @Hearse_Drifting",
@@ -4219,16 +4199,6 @@
    "join": "https://t.me/ibeta_channel"
   },
   {
-   "username": "iingtw",
-   "name": "台灣隊長蔡英文",
-   "desc": "蔡英文總統唯一官方Telegram頻道！\\t\\t「台灣的好，不應該輕易被擊倒。當新時代已經敲門，我們必須把門打開，讓世界看見台灣的好。」\\t\\t都加入我的TG了，也幫我加一下吧！\\",
-   "members": 53003,
-   "cat": "其他",
-   "cid": 14,
-   "page": "https://navsou.com/c/iingtw",
-   "join": "https://t.me/iingtw"
-  },
-  {
    "username": "illuvium_cn",
    "name": "Illuivum中文社区",
    "desc": "You can view and join @illuvium_cn right away.",
@@ -4237,16 +4207,6 @@
    "cid": 14,
    "page": "https://navsou.com/g/illuvium_cn",
    "join": "https://t.me/illuvium_cn"
-  },
-  {
-   "username": "infzm",
-   "name": "南方周末 / Southern Weekly",
-   "desc": "在这里，读懂中国\\t\\t一个简单的南方周末推送频道，由 weVoice 建立。\\t欢迎关注我们的主频道 @wVNews ，一个独立自由的青少年民主派新闻媒体。\\t\\t互吹: @cn",
-   "members": 75500,
-   "cat": "其他",
-   "cid": 14,
-   "page": "https://navsou.com/c/infzm",
-   "join": "https://t.me/infzm"
   },
   {
    "username": "ioshkj007",
@@ -4317,16 +4277,6 @@
    "cid": 14,
    "page": "https://navsou.com/g/jp_travel",
    "join": "https://t.me/jp_travel"
-  },
-  {
-   "username": "justanode_official",
-   "name": "Geeks TG24小时自动群发",
-   "desc": "流量大师✈️协议营销程序 @zawox \\t飞机会员代开 @tgvipsession 全网最强飞机协议 \\t官方客服 @svip333 双向 @svip333bot",
-   "members": 30095,
-   "cat": "其他",
-   "cid": 14,
-   "page": "https://navsou.com/g/justanode_official",
-   "join": "https://t.me/justanode_official"
   },
   {
    "username": "juzhossn",
@@ -4629,16 +4579,6 @@
    "join": "https://t.me/PharosMarketShopping"
   },
   {
-   "username": "PHmanila",
-   "name": "No.1 Manila_服务器_优秀的服务器_服务器托管租用_",
-   "desc": "阿里云/腾讯云/华为云充值即送实名账号💥💥 AWS 谷歌代充提供账户 T级高防服务器 CDN 高防站群 回国专线 需要可咨询 @kaix_ly",
-   "members": 24992,
-   "cat": "其他",
-   "cid": 14,
-   "page": "https://navsou.com/g/phmanila",
-   "join": "https://t.me/PHmanila"
-  },
-  {
    "username": "PIN1Group",
    "name": "ARM&X86&VPS&聊车玩家交流群，专业！",
    "desc": "",
@@ -4717,16 +4657,6 @@
    "cid": 14,
    "page": "https://navsou.com/c/mdmbeng",
    "join": "https://t.me/mdmbeng"
-  },
-  {
-   "username": "meiguozhiyin_rss",
-   "name": "美国之音 全文 实时推送",
-   "desc": "[RSS全文订阅 实时更新]  知乎日报 @zhihuribao_rss  纽约时报 @niuyueshibao_rss  BBC中文 @bbczhongwen_rss  路透中文",
-   "members": 22085,
-   "cat": "其他",
-   "cid": 14,
-   "page": "https://navsou.com/c/meiguozhiyin_rss",
-   "join": "https://t.me/meiguozhiyin_rss"
   },
   {
    "username": "meizitu3",
@@ -4817,16 +4747,6 @@
    "cid": 14,
    "page": "https://navsou.com/c/netflixfirst",
    "join": "https://t.me/NetflixFirst"
-  },
-  {
-   "username": "newbie_tele_discussion",
-   "name": "🔥WS群发 | FB群发 | INS群发 | TK矩阵 | 获客引流 | 拓客引流 | 云推客！全球|全渠道引流|系统、自动获客工具",
-   "desc": "🔥WS群发 | FB群发 | INS群发 | TK矩阵 | 获客引流 | 拓客引流 | 云推客！全球|全渠道引流|系统、自动获客工具。功能：采集指定国家任意大V粉丝，自动控制大量账",
-   "members": 46773,
-   "cat": "其他",
-   "cid": 14,
-   "page": "https://navsou.com/c/newbie_tele_discussion",
-   "join": "https://t.me/newbie_tele_discussion"
   },
   {
    "username": "NewWorldObservationLog",
@@ -4927,6 +4847,266 @@
    "cid": 14,
    "page": "https://navsou.com/c/remux4kfilm",
    "join": "https://t.me/Remux4KFilm"
+  },
+  {
+   "username": "osx86zh",
+   "name": "黑苹果osx86项目中文讨论/Hackintosh CHN Discussion",
+   "desc": "",
+   "members": 11185,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/osx86zh",
+   "join": "https://t.me/osx86zh"
+  },
+  {
+   "username": "PangTouY",
+   "name": "柴の收藏夹",
+   "desc": "私聊.反馈.投稿.合作 @PangTouY00  频道 @PangTouY  白嫖/节点/订阅/机场/梯子/翻墙/vpn/代理/加速器/科学上网/教程/破解/软件/资源/网站/撸羊",
+   "members": 50145,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/pangtouy",
+   "join": "https://t.me/PangTouY"
+  },
+  {
+   "username": "personal_hub",
+   "name": "心灵魔法站",
+   "desc": "爱玩单机游戏，偶尔也玩网游。  本频道无任何交流群，频道主和管理员不会私聊任何人。  频道14天以上无更新即可视为频道主已经失去对telegram账号的控制。  友链： @open",
+   "members": 5869,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/personal_hub",
+   "join": "https://t.me/personal_hub"
+  },
+  {
+   "username": "piracy6",
+   "name": "黑洞资源笔记",
+   "desc": "群组 @unnamechat",
+   "members": 62461,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/piracy6",
+   "join": "https://t.me/piracy6"
+  },
+  {
+   "username": "PlayStationNewssss",
+   "name": "PlayStation 新闻转发",
+   "desc": "群聊：@PlayStationXXXX https://playstation.hwaet.workers.dev 「Play Has No Limits」",
+   "members": 13586,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/playstationnewssss",
+   "join": "https://t.me/PlayStationNewssss"
+  },
+  {
+   "username": "poetry3456",
+   "name": "诗歌舍",
+   "desc": "陋室无名",
+   "members": 45444,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/poetry3456",
+   "join": "https://t.me/poetry3456"
+  },
+  {
+   "username": "Pojieapp",
+   "name": "频道🥇福利资源 | 薅羊毛·省钱中心🅥",
+   "desc": "🚀共享ID 独享ID 兑换码  @yangwangshop 🐷频道主 好棒的羊王 @haobangdada 机场推荐 私聊羊王 @haobangdada",
+   "members": 61191,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/pojieapp",
+   "join": "https://t.me/Pojieapp"
+  },
+  {
+   "username": "professionallinux",
+   "name": "专业Linux",
+   "desc": "",
+   "members": 26826,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/professionallinux",
+   "join": "https://t.me/professionallinux"
+  },
+  {
+   "username": "projectv2ray",
+   "name": "Project V （使用与反馈）",
+   "desc": "Project V 官方讨论组，内容仅限翻墙工具的使用相关话题，禁止任何无关网络、计算机、安全的内容。 官网: www.v2ray.com 公告: @v2msgclone V2fl",
+   "members": 69195,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/projectv2ray",
+   "join": "https://t.me/projectv2ray"
+  },
+  {
+   "username": "ptsd_help",
+   "name": "心理自助与互助",
+   "desc": "非专业频道，请自行辨别信息。  如果您有自杀，自残的想法，请联系自杀干预热线。  北京自杀研究防治中心专线: 800-810-1117 / 010-82951332 上海生命线: ",
+   "members": 68954,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/ptsd_help",
+   "join": "https://t.me/ptsd_help"
+  },
+  {
+   "username": "Pua_Library",
+   "name": "快长大吧男孩~💖",
+   "desc": "level up！让我们开始远航！（男人成长类书籍）",
+   "members": 21078,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/pua_library",
+   "join": "https://t.me/Pua_Library"
+  },
+  {
+   "username": "qiqubaike",
+   "name": "奇趣百科💥",
+   "desc": "",
+   "members": 19904,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/qiqubaike",
+   "join": "https://t.me/qiqubaike"
+  },
+  {
+   "username": "qqneQJ",
+   "name": "✨-也许是你的秘密（文案屋)",
+   "desc": "谢谢你们的喜欢🫶  💗相遇不一定有结局 但一定会有意义 欢迎来到文案屋 也许这里藏着你内心同样的秘密（延续文案屋） ☑️生活没有真理 真理就是不要和烂人烂事纠缠 因为会带走你的好运",
+   "members": 57443,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/qqneqj",
+   "join": "https://t.me/qqneQJ"
+  },
+  {
+   "username": "Quantumultxxxx",
+   "name": "不止QuantumultX",
+   "desc": "这里有关于一些主流网络代理APP的内容，群内不定时抽奖，欢迎订阅，进群  如果因盗版代理软件被封禁，请在购买正版后，凭购买凭证解封",
+   "members": 12201,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/quantumultxxxx",
+   "join": "https://t.me/Quantumultxxxx"
+  },
+  {
+   "username": "QuanXNews",
+   "name": "Quantumult X News",
+   "desc": "此频道用于发布 Quantumult、Quantumult X、以及相关资讯  下载: https://apps.apple.com/us/app/quantumult-x/id1",
+   "members": 37018,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/quanxnews",
+   "join": "https://t.me/QuanXNews"
+  },
+  {
+   "username": "racknerd_promo",
+   "name": "RackNerd - 官方促销信息️",
+   "desc": "该频道为我们官方唯一频道 (其它都是假冒). 我们会定期推送RackNerd官方最新的VPS, 独立服务器促销信息. 我们的官方网站是www.racknerd.com. 这个是我们",
+   "members": 25653,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/racknerd_promo",
+   "join": "https://t.me/racknerd_promo"
+  },
+  {
+   "username": "Readfine",
+   "name": "[好读] ReadFine电子书屋",
+   "desc": "好读提供电子书一站式体验，包括评分|简介|封面，一键下载，享受读趣。在这里，因为有您的陪伴，阅读变得并不孤单。频道只负责搜索资源并不对内容负责。 交流群 @ReadfineChat",
+   "members": 12332,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/readfine",
+   "join": "https://t.me/Readfine"
+  },
+  {
+   "username": "remenwangju",
+   "name": "抖音视频|流量网剧",
+   "desc": "🏆🏆🏆稳定频道，稳定流量，定期新增 稳定热门网剧更新，持续收录热门和经典影视剧场，给您更好和更多的感官体验，致力于完善更好更全的流量网络剧场频道 🏆🏆🏆引流合作： @TGMAX12",
+   "members": 11889,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/remenwangju",
+   "join": "https://t.me/remenwangju"
+  },
+  {
+   "username": "rfi_rss",
+   "name": "法国 国际广播电台 中文全文",
+   "desc": "[RSS全文订阅 实时更新]  知乎日报 @zhihuribao_rss  纽约时报 @niuyueshibao_rss  BBC中文 @bbczhongwen_rss  路透中文",
+   "members": 38797,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/rfi_rss",
+   "join": "https://t.me/rfi_rss"
+  },
+  {
+   "username": "rktun001",
+   "name": "小火箭VPN官方频道",
+   "desc": "官方通知频道 有问题请联系客服@rocketvpn001_bot 官网 https://rktun.com",
+   "members": 52107,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/rktun001",
+   "join": "https://t.me/rktun001"
+  },
+  {
+   "username": "rocCHL",
+   "name": "XP Digital Lab",
+   "desc": "XP Chat | Digital & Tech 官方公告频道，用于各种重要资讯和活动发布 官方群组:https://t.me/roctech 私信请👉@rocmmbot",
+   "members": 19461,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/rocchl",
+   "join": "https://t.me/rocCHL"
+  },
+  {
+   "username": "Rosmontis_Daily",
+   "name": "Rosmontis's Daily🔆",
+   "desc": "📝 日常分享｜趣图趣事  🏮 分享一些网络与生活上的所见所闻所想，也当是记录自己的心路历程吧  🔔 内容比较杂，请谨慎关注  ❤️ 友情链接 t.me/Rosmontis_Dail",
+   "members": 54316,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/rosmontis_daily",
+   "join": "https://t.me/Rosmontis_Daily"
+  },
+  {
+   "username": "RrOrangeAndFriends",
+   "name": "RrOrange和朋友们 | 周刊资源分享频道",
+   "desc": "📰 本频道官方周刊：https://rrorangeandfriends.de  🤣 分享日常冲浪互联网看到好玩的网站、app应用、资源分享、效率软件工具集等  🤖 AI新内容、A",
+   "members": 23933,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/rrorangeandfriends",
+   "join": "https://t.me/RrOrangeAndFriends"
+  },
+  {
+   "username": "rsstianya",
+   "name": "天涯神贴",
+   "desc": "天涯神帖（持续更新中） 联系支持 t.me/aikesno 天涯讨论组 https://t.me/tianyarss",
+   "members": 70767,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/rsstianya",
+   "join": "https://t.me/rsstianya"
+  },
+  {
+   "username": "rust_blockchain",
+   "name": "Rust区块链技术群",
+   "desc": "",
+   "members": 78202,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/g/rust_blockchain",
+   "join": "https://t.me/rust_blockchain"
+  },
+  {
+   "username": "saltplayerupdate",
+   "name": "不要糖醋放椒盐",
+   "desc": "椒盐音乐（PC/Android/鸿蒙）更新公告，开发者动态，椒盐全家桶",
+   "members": 46073,
+   "cat": "其他",
+   "cid": 14,
+   "page": "https://navsou.com/c/saltplayerupdate",
+   "join": "https://t.me/saltplayerupdate"
   }
  ]
 }
